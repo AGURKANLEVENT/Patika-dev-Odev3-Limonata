@@ -1,0 +1,40 @@
+ body {
+     background-image: url("/img/limonata.jpeg");
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+
+ }
+
+ p {
+     font-size: 35px;
+     font-style: italic;
+ }
+
+ #main {
+     font-size: large;
+     font-style: italic;
+ }
+
+ ul {
+     font-size: 20px;
+     font-style: italic;
+ }
+
+ #aside {
+     font-size: 20px;
+     font-style: italic;
+ }
+
+ footer {
+     text-align: center;
+     font-size: x-large;
+     font-style: italic;
+ }
+
+ img {
+     float: right;
+     padding: 0 10px 10px 0;
+     width: 550px;
+ }
